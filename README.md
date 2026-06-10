@@ -1,6 +1,6 @@
 # Sistema de Recuperação de Imagens por Conteúdo (CBIR) com Bag of Visual Words
 <div align="center">
-      <img src="img_readme_coil_100.png" width="100%" height="100%">
+      <img src="img_readme_coil_100.png" width="50%" height="50%">
 </div> 
 
 ## Sobre o Projeto
