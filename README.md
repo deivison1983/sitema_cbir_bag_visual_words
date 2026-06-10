@@ -5,7 +5,7 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade prática da Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina, com o objetivo de implementar um sistema de Recuperação de Imagens Baseada em Conteúdo (Content-Based Image Retrieval - CBIR).
+Este projeto consiste em um pipeline completo de Visão Computacional com o objetivo de implementar um sistema de Recuperação de Imagens Baseada em Conteúdo (Content-Based Image Retrieval - CBIR).
 
 A solução utiliza a abordagem **Bag of Visual Words (BoVW)** para representar imagens por meio de descritores visuais locais e recuperar automaticamente imagens semelhantes a partir de uma consulta.
 
